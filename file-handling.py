@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# Method 1
 # In[2]:
 
 
@@ -22,7 +22,7 @@ for i in data:
 
 
 # In[3]:
-
+# Method 2
 
 f7  = open("C:\\Users\\singh\\Desktop\\movies.dat")
 data = f7.read()
